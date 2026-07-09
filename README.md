@@ -10,15 +10,29 @@
   <a href="https://x.com/aboobakar">X / Twitter</a>
 </p>
 
-## Selected projects
+## Featured projects
 
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/akoita/claude-skills">claude-skills</a></h3>
+      Reusable global Agent Skills for Claude Code, including the Maestro orchestrator pattern.
+      <br><br>
+      <sub>Claude Code · AI agents · Developer workflow</sub>
+    </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/akoita/resonate">resonate</a></h3>
       Machine-first audio licensing API for agentic commerce and x402-powered stem checkout.
       <br><br>
       <sub>TypeScript · Audio · x402</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/akoita/resonate-agentic">resonate-agentic</a></h3>
+      AI-native protocol for music discovery, commerce, and creation—portable across agent runtimes and deployment targets.
+      <br><br>
+      <sub>Python · Google ADK · MCP · USDC</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/akoita/agent-forge">agent-forge</a></h3>
@@ -35,10 +49,10 @@
       <sub>Python · MCP · Security</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/akoita/resonate-agentic">resonate-agentic</a></h3>
-      AI-native protocol for music discovery, commerce, and creation—portable across agent runtimes and deployment targets.
+      <h3><a href="https://github.com/akoita/proof-of-audit">proof-of-audit</a></h3>
+      Stake-backed smart-contract audit attestations with deterministic agent reports, challenge workflows, and a web demo.
       <br><br>
-      <sub>Python · Google ADK · MCP · USDC</sub>
+      <sub>Python · Smart contracts · Security</sub>
     </td>
   </tr>
 </table>
