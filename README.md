@@ -53,11 +53,9 @@
       <sub>Python · Smart contracts · Security</sub>
     </td>
   </tr>
-</table>
-
-## Web3 & data work
-
-<table width="100%">
+  <tr>
+    <th colspan="2" align="left">Web3 &amp; data work</th>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/akoita/fusion-prime-core">fusion-prime-core</a></h3>
