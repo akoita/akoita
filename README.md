@@ -5,8 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/akoita?tab=repositories">All repositories</a>
-  &nbsp;·&nbsp;
   <a href="https://x.com/aboobakar">X / Twitter</a>
 </p>
 
@@ -75,33 +73,11 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3><a href="https://github.com/akoita/ethereum-onchain-intelligence">ethereum-onchain-intelligence</a></h3>
       An exploration of detecting wash trading on Ethereum AMMs with an Airflow, dbt, and BigQuery pipeline.
       <br><br>
       <sub>Python · Ethereum · Data engineering</sub>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/akoita/trainingFunding">trainingFunding</a></h3>
-      Training-funding platform built with TypeScript, Hyperledger Fabric, and smart contracts.
-      <br><br>
-      <sub>TypeScript · Hyperledger Fabric · Chaincode</sub>
-    </td>
   </tr>
 </table>
-
-## More to explore
-
-| Project | Focus |
-| --- | --- |
-| [chainlink-local-tuto](https://github.com/akoita/chainlink-local-tuto) | Chainlink and Solidity experiments |
-| [chainlink-bootcamp](https://github.com/akoita/chainlink-bootcamp) | Smart-contract learning projects |
-| [bbs-mywallet](https://github.com/akoita/bbs-mywallet) | JavaScript wallet project |
-| [minesweeper](https://github.com/akoita/minesweeper) | Python game implementation |
-| [start-with-convector](https://github.com/akoita/start-with-convector) | Hyperledger Fabric with Convector |
-
----
-
-<p align="center">
-  <i>This profile is a curated map of my work. For the full archive, visit <a href="https://github.com/akoita?tab=repositories">all repositories</a>.</i>
-</p>
