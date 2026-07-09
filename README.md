@@ -10,7 +10,7 @@
 
 ## Featured projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/akoita/claude-skills">claude-skills</a></h3>
@@ -57,7 +57,7 @@
 
 ## Web3 & data work
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/akoita/fusion-prime-core">fusion-prime-core</a></h3>
