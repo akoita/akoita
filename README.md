@@ -13,10 +13,10 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/akoita/claude-skills">claude-skills</a></h3>
-      Reusable global Agent Skills for Claude Code, including the Maestro orchestrator pattern.
+      <h3><a href="https://github.com/akoita/agent-toolkit">agent-toolkit</a></h3>
+      Cross-platform agent skills, workers, and future plugin packages for Claude Code and Codex.
       <br><br>
-      <sub>Claude Code · AI agents · Developer workflow</sub>
+      <sub>Claude Code · Codex · AI agents · Developer workflow</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/akoita/resonate">resonate</a></h3>
