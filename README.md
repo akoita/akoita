@@ -54,6 +54,20 @@
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/akoita/building-with-the-claude-api">building-with-the-claude-api</a></h3>
+      Learning notebooks and exercises for building applications with the Claude API.
+      <br><br>
+      <sub>Jupyter · Python · Claude API</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/akoita/building-with-the-claude-mcp">building-with-the-claude-mcp</a></h3>
+      CLI chat app connecting Claude to tools, prompts, and resources over MCP, with a bundled document server.
+      <br><br>
+      <sub>Python · MCP · Claude API</sub>
+    </td>
+  </tr>
+  <tr>
     <th colspan="2" align="left">Web3 &amp; data work</th>
   </tr>
   <tr>
