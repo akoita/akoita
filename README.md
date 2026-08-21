@@ -28,7 +28,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/akoita/draft-loop">draft-loop</a></h3>
-      Local-first agentic CV workspace with cross-provider author–critic review.
+      Local-first evaluator–optimizer loop for evidence-grounded CV crafting, with cross-provider critique and human approval.
       <br><br>
       <sub>TypeScript · React · Electron · SQLite</sub>
     </td>
