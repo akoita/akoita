@@ -28,9 +28,9 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/akoita/draft-loop">draft-loop</a></h3>
-      AI-native protocol for music discovery, commerce, and creation—portable across agent runtimes and deployment targets.
+      Local-first agentic CV workspace with cross-provider author–critic review.
       <br><br>
-      <sub>Python · Google ADK · MCP · USDC</sub>
+      <sub>TypeScript · React · Electron · SQLite</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/akoita/agent-forge">agent-forge</a></h3>
