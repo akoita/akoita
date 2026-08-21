@@ -30,7 +30,7 @@
       <h3><a href="https://github.com/akoita/draft-loop">draft-loop</a></h3>
       Local-first evaluator–optimizer loop for evidence-grounded CV crafting, with cross-provider critique and human approval.
       <br><br>
-      <sub>TypeScript · React · Electron · SQLite</sub>
+      <sub>TypeScript · Agentic AI · Anthropic + OpenAI · Electron</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/akoita/agent-forge">agent-forge</a></h3>
