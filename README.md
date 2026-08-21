@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/akoita/resonate-agentic">resonate-agentic</a></h3>
+      <h3><a href="https://github.com/akoita/draft-loop">draft-loop</a></h3>
       AI-native protocol for music discovery, commerce, and creation—portable across agent runtimes and deployment targets.
       <br><br>
       <sub>Python · Google ADK · MCP · USDC</sub>
